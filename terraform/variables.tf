@@ -1,17 +1,17 @@
 # Variable definitions
 variable "project" {
   type        = string
-  description = "Project name i.e. tfdemo"
+  description = "tfdemo"
 }
 
 variable "environment" {
   type        = string
-  description = "Environment name i.e. env01, env02 etc."
+  description = "env01"
 }
 
 variable "location" {
   type        = string
-  description = "Location of the Azure resources i.e. uksouth "
+  description = "southafricanorth"
 }
 
 # Local variables

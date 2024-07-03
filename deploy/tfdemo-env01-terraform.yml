@@ -17,3 +17,4 @@ stages:
     rootFolder: $(rootFolder)
     tfvarsFile: $(tfvarsFile)
     adoEnvironment: $(adoEnvironment)
+    

@@ -48,3 +48,4 @@ stages:
             workingDirectory: ${{ parameters.rootFolder }}
             env:
               ARM_CLIENT_SECRET: $(ARM_CLIENT_SECRET)
+              
